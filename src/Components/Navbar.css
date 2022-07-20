@@ -36,16 +36,16 @@
 
 li{
     margin:1.4vw;
-    font-size: .3vh;
+    font-size: 1vh;
     font-weight: 500;
-    color: rgb(253,151,89);
+    color: rgb(239, 230, 224);
 }
 
 button{
     padding: 1vh 3vw;
     border-radius: 30px;
     color:white;
-    font-size: .3vh;
+    font-size: 1vh;
     font-weight: 500;
     border: none;
     background-color: rgb(253,151,89);
