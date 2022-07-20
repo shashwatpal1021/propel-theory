@@ -1,0 +1,52 @@
+.navbar{
+    margin: 1vw 5vw;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+
+}
+
+
+.navbar-container .left-side{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-container h1{
+    font-weight: 350;
+    font-size: 4vh;
+    color: rgb(125,124,124);
+}
+
+.navbar-container .right-side{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.navbar-container .right-side .list{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    margin:1.4vw;
+    font-size: .3vh;
+    font-weight: 500;
+    color: rgb(253,151,89);
+}
+
+button{
+    padding: 1vh 3vw;
+    border-radius: 30px;
+    color:white;
+    font-size: .3vh;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(253,151,89);
+}
